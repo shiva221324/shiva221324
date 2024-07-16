@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻I am currently pursuing my B.Tech in computer science<br>✨ Creating bugs since 2022<br>📚 I'm currently learning Backend<br>🎲 Fun fact: I haven't learn anything from college<br>📫 How to reach me tsivavenkatkumar@gmail.com</p>
+<p align="left">💻I am currently pursuing my B.Tech in computer science<br>🎲 Fun fact: I haven't learn anything from college<br>📫 How to reach me tsivavenkatkumar@gmail.com</p>
 
 ###
 

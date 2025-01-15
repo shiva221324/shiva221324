@@ -10,6 +10,8 @@
 
 📫 Reach me at **tsivavenkatkumar@gmail.com**
 
+🎲 Fun fact: I haven't learn anything from college
+
 ### 🚀 Recent Projects
 
 - **Skelo - LMS Portal**: A comprehensive learning management system with assessments and DSA practice

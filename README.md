@@ -1,27 +1,31 @@
-
+<div align="center">
+  <img src="https://your-image-url-here.com/header-image.png" alt="Shiva Venkat Kumar" width="100%">
+</div>
 
 # Shiva Venkat Kumar
 
-> Full Stack Developer | DevOps Enthusiast | Problem Solver
+> Full Stack Developer | Cybersecurity Specialist | Problem Solver
 
 🎓 B.Tech in Computer Science Engineering (CGPA: 8.69) | Lakireddy Bali Reddy College of Engineering
 
 ## 🚀 About Me
 
-I'm a passionate Software Developer from India, specializing in Full Stack Development and DevOps. With a keen eye for building scalable applications using modern tech stacks, I'm constantly pushing the boundaries of what's possible in software engineering.
+I'm a passionate Software Developer from India, specializing in Full Stack Development and Cybersecurity. With a keen eye for building scalable and secure applications using modern tech stacks, I'm constantly pushing the boundaries of what's possible in software engineering and digital security.
 
 - 🔭 Currently working as a **Software Development Engineer Intern at LeanTech Labs**
-- 🌱 Focused on building **scalable applications with cutting-edge technologies**
+- 🛡️ Actively engaged in **penetration testing and bug bounty programs**
+- 🌱 Focused on building **scalable and secure applications with cutting-edge technologies**
 - 👨‍💻 Portfolio: [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
 - 📫 Contact: [tsivavenkatkumar@gmail.com](mailto:tsivavenkatkumar@gmail.com)
 
 ## 💼 Professional Experience
 
 - **Software Development Engineer Intern** | LeanTech Labs
-  - Developing scalable solutions using modern tech stacks
+  - Developing scalable and secure solutions using modern tech stacks
   - Collaborating with cross-functional teams to deliver high-quality software
+  - Conducting penetration testing and implementing security best practices
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -34,19 +38,31 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps
+### DevOps & Testing
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![k6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+
+### Cybersecurity
+![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/-Bug_Bounty-4C8BF5?style=for-the-badge&logo=bugcrowd&logoColor=white)
 
 </div>
 
@@ -56,20 +72,25 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 - 🏆 **HackIT Winner** - First prize for innovative full-stack solution
 - 🥉 **KGF Coding Contest** - Secured third position
 - 💻 Solved 500+ problems across LeetCode, GeeksforGeeks, and Coding Ninjas
+- 🛡️ Discovered and responsibly disclosed multiple security vulnerabilities in web applications
 
 ## 🚀 Featured Projects
 
 1. **Skelo - LMS Portal**
    - Comprehensive learning management system with assessments and DSA practice
-   - Tech Stack: [List the technologies used]
+   - Tech Stack: React, Node.js, Express, MongoDB, WebSockets, Jest
 
 2. **Online Code Execution Engine**
    - Secure sandbox environment supporting 10+ programming languages
-   - Tech Stack: [List the technologies used]
+   - Tech Stack: Docker, Kubernetes, Node.js, Redis, RabbitMQ
 
 3. **NPM Deployment Package**
    - Automated deployment solution for frontend projects
-   - Tech Stack: [List the technologies used]
+   - Tech Stack: Node.js, Docker, Kubernetes, Jest
+
+4. **Web Application Vulnerability Scanner**
+   - Automated tool for detecting common web vulnerabilities
+   - Tech Stack: Python, SQLite, Docker
 
 ## 📊 GitHub Stats
 
@@ -91,5 +112,5 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 ---
 
 <div align="center">
-  <i>⚡ Fun fact: I believe in learning through real-world projects and challenges!</i>
+  <i>⚡ Fun fact: I believe in learning through real-world projects, challenges, and ethical hacking!</i>
 </div>

@@ -77,10 +77,6 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
    - Automated deployment solution for frontend projects
    - Tech Stack: Node.js, Docker, Kubernetes, Jest
 
-4. **Web Application Vulnerability Scanner**
-   - Automated tool for detecting common web vulnerabilities
-   - Tech Stack: Python, SQLite, Docker
-
 ## 📊 GitHub Stats
 
 <div align="center">

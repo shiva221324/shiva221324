@@ -87,25 +87,6 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 ### Problem Solving
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sivavenkatkumar221324?theme=dark&font=Noto%20Sans)
 
-### LeetCode Badges
-[![LeetCode user sivavenkatkumar221324](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsivavenkatkumar221324&logo=leetcode&logoColor=yellow)](https://leetcode.com/sivavenkatkumar221324/)
-
-[![Problems Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=success&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/sivavenkatkumar221324)](https://leetcode.com/sivavenkatkumar221324/)
-
-![](https://img.shields.io/badge/Easy-green?style=for-the-badge)
-[![Easy Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=green&color=black&label=Easy&query=easySolved&url=https://leetcode-badge.vercel.app/api/users/sivavenkatkumar221324)](https://leetcode.com/sivavenkatkumar221324/)
-
-![](https://img.shields.io/badge/Medium-yellow?style=for-the-badge)
-[![Medium Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=yellow&color=black&label=Medium&query=mediumSolved&url=https://leetcode-badge.vercel.app/api/users/sivavenkatkumar221324)](https://leetcode.com/sivavenkatkumar221324/)
-
-![](https://img.shields.io/badge/Hard-red?style=for-the-badge)
-[![Hard Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=red&color=black&label=Hard&query=hardSolved&url=https://leetcode-badge.vercel.app/api/users/sivavenkatkumar221324)](https://leetcode.com/sivavenkatkumar221324/)
-
-### Streak & Activity
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sivavenkatkumar221324&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-[![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=sivavenkatkumar221324&theme=dark)](https://leetcode.com/sivavenkatkumar221324/)
-
 ## 🤝 Connect with Me
 
 <div align="center">

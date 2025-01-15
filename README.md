@@ -1,84 +1,97 @@
-<h1 align="left">Hi 👋, I'm Shiva Venkat Kumar</h1>
-
-<p align="left">A passionate Software Developer from India with expertise in Full Stack Development and DevOps. Currently pursuing B.Tech in Computer Science Engineering at Lakireddy Bali Reddy College of Engineering with a CGPA of 8.69.</p>
-
-🔭 Currently working as a **Software Development Engineer Intern at LeanTech Labs**
-
-🌱 Building **scalable applications with modern tech stack**
-
-👨‍💻 Check out my projects at [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
-
-📫 Reach me at **tsivavenkatkumar@gmail.com**
-
-🎲 Fun fact: I haven't learn anything from college
-
-### 🚀 Recent Projects
-
-- **Skelo - LMS Portal**: A comprehensive learning management system with assessments and DSA practice
-- **Online Code Execution Engine**: Secure sandbox environment supporting 10+ programming languages
-- **NPM Deployment Package**: Automated deployment solution for frontend projects
-
-### 🏆 Achievements
-- MERN Stack Champion — First place in institutional hackathon
-- HackIT Winner — First prize for innovative full-stack solution
-- KGF Coding Contest — Secured third position
-- Solved 500+ problems across LeetCode, GeeksforGeeks, and Coding Ninjas
-
-### 💻 Tech Stack
-
-<div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  
-  <!-- Frontend -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  
-  <!-- Backend -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  
-  <!-- Databases -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-  
-  <!-- DevOps -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+<div align="center">
+  <img src="https://your-image-url-here.com/header-image.png" alt="Shiva Venkat Kumar" width="100%">
 </div>
 
-### 🔗 Connect with me:
-<div align="left">
-<a href="https://github.com/shiva221324/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-<a href="https://www.linkedin.com/in/shiva-venkat-kumar-929138255" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://www.instagram.com/sivavenkatakumar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
-</a>
+# Shiva Venkat Kumar
+
+> Full Stack Developer | DevOps Enthusiast | Problem Solver
+
+🎓 B.Tech in Computer Science Engineering (CGPA: 8.69) | Lakireddy Bali Reddy College of Engineering
+
+## 🚀 About Me
+
+I'm a passionate Software Developer from India, specializing in Full Stack Development and DevOps. With a keen eye for building scalable applications using modern tech stacks, I'm constantly pushing the boundaries of what's possible in software engineering.
+
+- 🔭 Currently working as a **Software Development Engineer Intern at LeanTech Labs**
+- 🌱 Focused on building **scalable applications with cutting-edge technologies**
+- 👨‍💻 Portfolio: [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
+- 📫 Contact: [tsivavenkatkumar@gmail.com](mailto:tsivavenkatkumar@gmail.com)
+
+## 💼 Professional Experience
+
+- **Software Development Engineer Intern** | LeanTech Labs
+  - Developing scalable solutions using modern tech stacks
+  - Collaborating with cross-functional teams to deliver high-quality software
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 </div>
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiva221324&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva221324&theme=dark" alt="GitHub Streak" />
+## 🏆 Achievements
+
+- 🥇 **MERN Stack Champion** - First place in institutional hackathon
+- 🏆 **HackIT Winner** - First prize for innovative full-stack solution
+- 🥉 **KGF Coding Contest** - Secured third position
+- 💻 Solved 500+ problems across LeetCode, GeeksforGeeks, and Coding Ninjas
+
+## 🚀 Featured Projects
+
+1. **Skelo - LMS Portal**
+   - Comprehensive learning management system with assessments and DSA practice
+   - Tech Stack: [List the technologies used]
+
+2. **Online Code Execution Engine**
+   - Secure sandbox environment supporting 10+ programming languages
+   - Tech Stack: [List the technologies used]
+
+3. **NPM Deployment Package**
+   - Automated deployment solution for frontend projects
+   - Tech Stack: [List the technologies used]
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiva221324&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva221324&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiva221324/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-venkat-kumar-929138255)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivavenkatakumar)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ Fun fact: I believe in learning through real-world projects and challenges!</i>
 </div>

@@ -14,7 +14,7 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 - 🌱 Focused on building **scalable and secure applications with cutting-edge technologies**
 - 👨‍💻 Portfolio: [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
 - 📫 Contact: [tsivavenkatkumar@gmail.com](mailto:tsivavenkatkumar@gmail.com)
-- 💻 LeetCode: [shivavenkatkumar221324](https://leetcode.com/shivavenkatkumar221324/)
+- 💻 LeetCode: [shivavenkatkumar221324](https://leetcode.com/u/shivavenkatkumar221324/)
 
 ## 💼 Professional Experience
 

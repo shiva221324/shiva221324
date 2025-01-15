@@ -84,10 +84,7 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 </div>
 
 ## 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sivavenkatkumar221324&theme=dark" alt="LeetCode Stats" />
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/sivavenkatkumar221324?theme=dark&font=Noto%20Sans)
 
 ## 🤝 Connect with Me
 

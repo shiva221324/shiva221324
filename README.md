@@ -14,6 +14,7 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 - 🌱 Focused on building **scalable and secure applications with cutting-edge technologies**
 - 👨‍💻 Portfolio: [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
 - 📫 Contact: [tsivavenkatkumar@gmail.com](mailto:tsivavenkatkumar@gmail.com)
+- 💻 LeetCode: [shiva221324](https://leetcode.com/shiva221324/)
 
 ## 💼 Professional Experience
 
@@ -74,11 +75,18 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
    - Automated deployment solution for frontend projects
    - Tech Stack: Node.js, Docker, Kubernetes, Jest
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva221324&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva221324&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=shiva221324&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ## 🤝 Connect with Me
@@ -88,6 +96,7 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiva221324/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-venkat-kumar-929138255)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivavenkatakumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shiva221324/)
 
 </div>
 

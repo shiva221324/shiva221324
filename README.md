@@ -1,7 +1,7 @@
 
 # Shiva Venkat Kumar
 
-> Full Stack Developer | Cybersecurity Specialist | Problem Solver
+> Full Stack Developer | Problem Solver
 
 🎓 B.Tech in Computer Science Engineering (CGPA: 8.69) | Lakireddy Bali Reddy College of Engineering
 
@@ -14,7 +14,7 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 - 🌱 Focused on building **scalable and secure applications with cutting-edge technologies**
 - 👨‍💻 Portfolio: [shivavenkatkumar.vercel.app](https://shivavenkatkumar.vercel.app)
 - 📫 Contact: [tsivavenkatkumar@gmail.com](mailto:tsivavenkatkumar@gmail.com)
-- 💻 LeetCode: [shiva221324](https://leetcode.com/shiva221324/)
+- 💻 LeetCode: [shivavenkatkumar221324](https://leetcode.com/shivavenkatkumar221324/)
 
 ## 💼 Professional Experience
 
@@ -101,5 +101,5 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 ---
 
 <div align="center">
-  <i>⚡ Fun fact: I believe in learning through real-world projects, challenges, and ethical hacking!</i>
+  <i>🎲 Fun fact: I haven't learn anything from college </i>
 </div>

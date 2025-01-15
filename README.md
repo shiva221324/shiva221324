@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://your-image-url-here.com/header-image.png" alt="Shiva Venkat Kumar" width="100%">
-</div>
+
 
 # Shiva Venkat Kumar
 

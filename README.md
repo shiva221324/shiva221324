@@ -98,8 +98,3 @@ I'm a passionate Software Developer from India, specializing in Full Stack Devel
 
 </div>
 
----
-
-<div align="center">
-  <i>🎲 Fun fact: I haven't learn anything from college </i>
-</div>

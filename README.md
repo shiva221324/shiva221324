@@ -1,7 +1,7 @@
 
 # Shiva Venkat Kumar
 
-> Full Stack Developer | Problem Solver
+> Full Stack Developer | Bug Bounty Developer | Problem Solver
 
 🎓 B.Tech in Computer Science Engineering (CGPA: 8.69) | Lakireddy Bali Reddy College of Engineering
 
